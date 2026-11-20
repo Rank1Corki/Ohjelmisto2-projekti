@@ -1,0 +1,5 @@
+=== OHJEET ===
+- Liiku valmiissa tunneleissa tai louhi kaivosta liikkuakseen.
+- Seinän murtaminen vie 10 energiaa ja jättää esineen maahan.
+- Poimi maassa olevat tavarat!
+- Lepää, että saat kaiken energian takaisin.
